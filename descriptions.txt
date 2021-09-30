@@ -1,0 +1,106 @@
+(:spatial :primary Bamberg) is a (:spatial town) in (:spatial Germany), on the (:spatial river) (:spatial Regnitz) close to its (:spatial confluence) with the (:spatial river) (:spatial Main).
+(:spatial :primary Munich) the most populated (:spatial city) in the German (:spatial state) of (:spatial Bavaria), on the banks of the (:spatial river Isar) north of the (:spatial Bavarian Alps).
+(:spatial :primary Frankfurt) is a (:spatial metropolis) and the largest (:spatial city) in the German (:spatial state) of (:spatial Hessen).
+Two men are at the (:spatial :primary post office) near the (:spatial train station) in (:spatial Bamberg).
+I am at a local (:spatial residence) on the western side of (:spatial KFC) near a (:spatial shoe shop) in (:spatial Bamberg).
+(:spatial :primary Hannover) on the (:spatial river Leine), is the (:spatial capital) and largest (:spatial city) of the German (:spatial state).
+(:spatial :primary Dresden) is situated in a (:spatial valley) on the (:spatial river Elbe).
+(:spatial :primary Italy) is a unitary parliamentary republic in (:spatial Europe), located in the heart of the (:spatial Mediterranean Sea).
+(:spatial :primary Prague) situated in the north-west of the (:spatial country) on the (:spatial Vltava river).
+(:spatial :primary Seehof Schloss) is located outside of (:spatial Memmelsdorf) in the (:spatial district) of (:spatial Bamberg).
+My (:spatial :primary car)\footnote{The place the par is located would be the primary entity, but it cannot be geo-referenced.) is parked near the (:spatial Erba park) close to the (:spatial university) in (:spatial Bamberg).
+The (:spatial :primary Altenburg) is a (:spatial castle) that sits on the tallest of the seven (:spatial hills) of (:spatial Bamberg) located in (:spatial Upper Franconia).
+The (:spatial :primary Altes Rathaus) is perched in the middle of a (:spatial bridge) above the (:spatial Regnitz river) and is a must-see.
+One of the most famous (:spatial breweries) right in the centre of (:spatial Old Town) known as (:spatial :primary Schlenkerla) has the best beer.
+(:spatial :primary Hotel Merkur), in the heart of (:spatial Baden-Baden), is recently renovated and on a quiet, peaceful (:spatial street).
+The (:spatial :primary Faisal Mosque) is located on the (:spatial foothills) of (:spatial Margalla Hills) in (:spatial Islamabad).
+(:spatial :primary Stuttgart) is located on the (:spatial Neckar river) in a fertile (:spatial valley) locally known as the (:spatial "Stuttgart Cauldron").
+(:spatial Stuttgart's) most important (:spatial :primary shopping street) which runs along the northwestern edge of (:spatial Schlossplatz), claims to be the longest pedestrianised (:spatial street) in (:spatial Germany).
+There are (:spatial :primary two parks) in (:spatial Bamberg) in the arms of (:spatial river Regnitz).
+Situated on the (:spatial river Elbe), (:spatial :primary Hamburg) is home to (:spatial Europe's) second-largest (:spatial port) and a broad corporate base.
+The lavish and spacious (:spatial :primary Planten un Blomen park)  located in the centre of (:spatial Hamburg) is the green heart of the (:spatial city).
+The (:spatial :primary Botanischer Garten) is a modern (:spatial botanical garden) in (:spatial Hamburg) maintained by the (:spatial university).
+The (:spatial :primary English Theatre of Hamburg) near (:spatial U3 Mundsburg station) is the oldest professional (:spatial theatre) in (:spatial Germany).
+The (:spatial :primary Berggarten) is a botanical (:spatial garden) with the most varied collection of orchids in (:spatial Europe).
+Another tourist sight in (:spatial Anderten) is the (:spatial :primary Hindenburg Lock), which was the biggest lock in (:spatial Europe).
+The (:spatial :primary Sprengeler Mühle) shows the art of the 20th century. (:spatial :primary It) is one of the most notable (:spatial :primary art museums) in (:spatial Germany).
+(:spatial :primary Potsdam) is situated on the southwestern periphery of (:spatial Berlin).
+The (:spatial :primary Historical (Historisches) Museum of Bamberg) is a (:spatial museum)  located in the (:spatial Alte Hofhaltung) next to the (:spatial city cathedral).
+Northeast of (:spatial Munich) in the Bavarian (:spatial town) of (:spatial Landshut) is (:spatial :primary Trausnitz castle), a medieval structure.
+About 100 km (60 miles) from (:spatial Munich), right outside of a (:spatial town) called (:spatial Oberammergau), is (:spatial :primary Linderhof palace).
+A small and cozy green area in the heart of the (:spatial old city), this (:spatial :primary garden) is conveniently situated right next to (:spatial Ludwigstrasse), one of (:spatial Munich's) (:spatial main streets).
+(:spatial :primary Tierpark Hellabrunn) is a very nice (:spatial zoo) close to (:spatial Isar river), this is an animated and informative place for families with kids.
+(:spatial :primary Bayreuth) is a medium-sized (:spatial city) in northern (:spatial Bavaria), (:spatial Germany), on the (:spatial Red Main river) in a (:spatial valley) between (:spatial Fichtelgebirge mountains).
+(:spatial :primary Dusseldorf) is the (:spatial city) that lies on the right bank of the (:spatial Rhine) as opposed to (:spatial Cologne).
+(:spatial Europe) first public (:spatial :primary museum), is the (:spatial :primary Fridericianum) and was founded in (:spatial Kassel), which held one of the largest collections in the world of watches and clocks.
+The biggest (:spatial :primary forest) is the (:spatial :primary Auwald) in (:spatial Ingolstadt), it is found on both the northern and southern banks of the (:spatial Danube river).
+The (:spatial :primary Luisenplatz), is the central square of the (:spatial Darmstadt), forms the centre of the (:spatial city) and is the main public transport hub.
+The (:spatial city) has a high density of (:spatial parks), among the most important (:spatial parks) are the English-style (:spatial :primary Herrengarten) in central (:spatial Darmstadt).
+(:spatial :primary Burg Frankenstein), a hilltop (:spatial castle) is in the (:spatial Odenwald) overlooking the (:spatial city) of (:spatial Darmstadt) in (:spatial Germany).
+Adjacent to the (:spatial Tiergarten) is (:spatial :primary Holocaust Memorial) centrally located in (:spatial Berlin Friedrichstadt district), close to the (:spatial Reichstag building) and the (:spatial Brandenburg Gate).
+The (:spatial :primary East Side Gallery) is a open air (:spatial gallery) in (:spatial Berlin) consisting of a series of (:spatial murals) from (:spatial The Wall) located near the centre of (:spatial Berlin).
+(:spatial :primary Passau) is a town in (:spatial Lower Bavaria), (:spatial Germany), also known as the City of Three Rivers where (:spatial river Danube) is joined there by the (:spatial Inn) and (:spatial Ilz river).
+(:spatial :primary Coburg) is also known as the (:spatial location) of (:spatial Veste Coburg), one of (:spatial Germany's) largest (:spatial castles).
+The (:spatial :primary Lokschuppen) is a internationally renowned (:spatial museum) with annually changing exhibitions in the former (:spatial railways round house) in (:spatial Rosenheim).
+The (:spatial :primary Little Wedding House) in the (:spatial town) of (:spatial Amberg) is claimed by authorities to be the world's smallest (:spatial hotel).
+The (:spatial :primary bridge) crosses the (:spatial Danube river) just north of a (:spatial cafe) at the (:spatial river).
+(:spatial St. Pauli) is a colossal (:spatial district) in (:spatial Hamburg).
+If you want to go for a drink is (:spatial Hamburger Berg). One of my favorite (:spatial bars) there is (:spatial Lunacy), and I can also recommend (:spatial Zum Silbersack) just down the (:spatial street). Other right (:spatial places) include (:spatial Drei Zimmer Wohnung) and (:spatial Wilde Hilde bar) across the neighbourhood.
+The (:spatial :primary Reeperbahn), a street and entertainment district in (:spatial St. Pauli) of (:spatial Hamburg).
+One of my favorite (:spatial bars) there is (:spatial Lunacy), and I can also recommend zum (:spatial Silbersack) just down the (:spatial street).
+A famous (:spatial landmark) is a (:spatial :primary police station) located on the south-side of the (:spatial Reeperbahn) at the cross (:spatial street) (:spatial Davidstra\ss{)e), called (:spatial Davidwache).
+The state-owned (:spatial Deutsches Schauspielhaus), the (:spatial Thalia Theater), (:spatial Ohnsorg Theater), (:spatial Schmidts Tivoli) and the (:spatial Kampnagel) are well-known (:spatial theaters).
+The (:spatial :primary Botanischer Garten Dresden) is a (:spatial botanical garden) in the (:spatial Großer Garten) that is maintained by the (:spatial Dresden University of Technology).
+(:spatial Dresden) also has a few multiplex (:spatial cinemas), of which the (:spatial :primary Neues Rundkino) is the oldest.
+The (:spatial :primary Spree) is a (:spatial :primary river) that flows through the (:spatial Saxony), (:spatial Brandenburg) and (:spatial Berlin) (:spatial states) of (:spatial Germany), and in the (:spatial Ústí nad Labem region) of the (:spatial Czech Republic).
+The main transport hub of (:spatial Heidelberg), (:spatial :primary Bismarckplatz) is connected to (:spatial main street Hauptstraße) which runs from here through the entire old (:spatial town) of (:spatial Heidelberg).
+Among the most prominent (:spatial :primary museums) of (:spatial Heidelberg) are for instance the (:spatial :primary Carl Bosch) which shows life and work of chemist and Nobel Prize-winner Carl Bosch.
+The pedestrian-only (:spatial :primary bridge) across the (:spatial Main) in (:spatial Frankfurt) that connects (:spatial Römerberg) and (:spatial Sachsenhausen) is known as (:spatial :primary Eiserner Steg).
+(:spatial :primary St. Leonhard), on the (:spatial Main) close to the (:spatial bridge), (:spatial Eiserner Steg), a catholic late gothic hall (:spatial :primary church).
+(:spatial :primary St. Catherine) is the largest protestant (:spatial church). It is located in (:spatial city center) at the (:spatial entrance) to the (:spatial Zeil), the central (:spatial pedestrian street) for shopping.
+Located in the (:spatial Westend) district of (:spatial Hesse), the most extensive (:spatial botanical garden) covering 22 ha is known as (:spatial :primary Palmengarten).
+The (:spatial :primary Gemäldegalerie), a (:spatial :primary painting gallery) focuses on the paintings of the "old masters" from the 13th to the 18th centuries, while the (:spatial Neue Nationalgalerie) specializes in 20th-century European painting.
+(:spatial :primary Schloss Charlottenburg) is a baroque (:spatial :primary palace) in (:spatial Berlin), located in (:spatial Charlottenburg), a (:spatial district) of the (:spatial Charlottenburg-Wilmersdorf) borough.
+The gothic (:spatial :primary St. Lorenz) dominates the southern part of the walled (:spatial city) and is one of the most important (:spatial churches) in (:spatial Nuremberg).
+The (:spatial :primary Adler-Apotheke), located nearby the (:spatial cathedral) in (:spatial Regensburg), was founded in 1610 and is one of the oldest (:spatial pharmacies) there.
+Almost all the major attractions in (:spatial Melbourne) are located in the (:spatial :primary CBD), the (:spatial Arts Center Melbourne) and the (:spatial Recital Center) are located just to the south of the (:spatial :primary CBD), with the (:spatial Sidney Myer Music Bowl) in (:spatial parklands) to the east.
+The largest (:spatial parks) in the central area of (:spatial London) are three of the eight (:spatial Parks of Royal), namely (:spatial Hyde) and it's neighbor (:spatial Kensington Gardens) in the west, and (:spatial Regent's) to the north.
+Another version of (:spatial Sherlock Holmes apartment) is at (:spatial The Sherlock Holmes pub) in a street called (:spatial Northumberland) near (:spatial Charing Cross station).
+(:spatial :primary Westminster Abbey) is a large, gothic (:spatial abbey)  in the (:spatial city) of (:spatial Westminster), just to the west of the (:spatial Palace of Westminster) with the status of a royal peculiar (:spatial :primary church).
+Trams also run along (:spatial Flinders), (:spatial Collins), (:spatial Bourke), (:spatial La Trobe), (:spatial Spencer), (:spatial Market), (:spatial Elizabeth), and (:spatial Spring Streets).
+(:spatial Westminster Abbey) and (:spatial St Paul's Cathedral) dominate the (:spatial city's) historic (:spatial church) scene.
+When it comes to (:spatial :primary pubs), (:spatial :primary The Thomas Cubitt) is one of my favorites in (:spatial London).
+Other (:spatial streets) linked to (:spatial Queen Victoria Street) include (:spatial Puddle Dock), (:spatial Cannon Street), (:spatial Walbrook) and (:spatial Poultry).
+(:spatial :primary Tate Britain) is the part of the Tate network of (:spatial galleries) in (:spatial England), with (:spatial Tate Modern), (:spatial Tate Liverpool) and (:spatial Tate St Ives), being one of the oldest (:spatial gallery) in the network.
+(:spatial :primary William Street) is a major (:spatial street) in the central (:spatial business district) of (:spatial Melbourne), (:spatial Victoria) and is located in-between (:spatial King) and (:spatial Queen Street).
+(:spatial :primary William Street) is a major (:spatial street) in the central (:spatial business district) of (:spatial Melbourne), (:spatial Victoria) which runs roughly north-south from (:spatial Flinders) to (:spatial Victoria Street).
+(:spatial :primary Melbourne) is the (:spatial capital) as well as the most populous (:spatial city) of the Australian (:spatial state), (:spatial Victoria).
+(:spatial :primary Yarra Valley town) falls under the (:spatial Nillumbik) and (:spatial Yarra Ranges Shire) councils. Major (:spatial towns) include (:spatial Coldstream), (:spatial Yarra Glen), (:spatial Healesville) and (:spatial Warburton).
+As far as green (:spatial spaces) go, (:spatial Jubilee Gardens) has smooth (:spatial paths) and (:spatial Cherry Hill Park) is a great (:spatial place) to sit and take in the views of (:spatial Ely Cathedral).
+(:spatial :primary Peggy Porschen) is the most eye-catching among them. It has a bright pink facade and ever-changing flower displays. This (:spatial :primary cake shop) is one of the most photographed (:spatial places) in (:spatial Belgravia), and a fun (:spatial place) to have tea and cupcakes with friends.
+Another pretty (:spatial :primary cafe) on (:spatial Elizabeth Street) is (:spatial :primary Dominique Ansel Bakery).
+There are also cultural shows and performances in (:spatial places) like (:spatial :primary Sant-Julia-de-Loria) in (:spatial Andorra).
+In addition to the (:spatial museum), (:spatial Grasse) has three perfume (:spatial factories) namely (:spatial Fragonard), (:spatial Fragonard), and (:spatial Galimard).
+(:spatial Birmingham) only has small (:spatial rivers) flowing through it, mainly the (:spatial :primary River Tame) and its (:spatial tributaries) (:spatial Rea) and (:spatial River Cole) -- one of the closest main (:spatial rivers) is called (:spatial Severn).
+(:spatial :primary Birmingham Repertory) is (:spatial Britain's) longest-established producing (:spatial theatre), other producing (:spatial theatres) include the (:spatial Blue Orange) and the (:spatial Birmingham Rep).
+The (:spatial :primary Alexandra Theatre) and the (:spatial :primary Birmingham Hippodrome) host large-scale touring productions, while professional drama is performed on a wide range of stages across the (:spatial city), including the (:spatial Crescent Theatre), the (:spatial Custard Factory) and at the (:spatial Old Joint Stock).
+In the heart of (:spatial Westminster), you’ll find the iconic (:spatial :primary Trafalgar Square). It's full of incredible (:spatial museums), (:spatial galleries), cultural (:spatial spaces), and historic (:spatial buildings).
+In the center of the (:spatial city), you'll find one of the most beautiful (:spatial parks) in the (:spatial UK), the (:spatial :primary St. James). You can get amazing views of the (:spatial lake) and (:spatial fountain) from (:spatial St. James Café).
+And, if you only make it over to one other (:spatial :primary pub), go to (:spatial :primary The Churchill Arms) to dig into some curry while you admire the Churchill memorabilia.
+The (:spatial :primary Woolpack) is one of many highlights of (:spatial Bermondsey Street), which is a hotspot on (:spatial London's) dining and is a famous (:spatial pub) for its (:spatial beer garden).
+Down the (:spatial street) is (:spatial :primary Jose Pizarro) and (:spatial :primary Tapas). They're two of the best (:spatial restaurants) in (:spatial London Bridge).
+Also on (:spatial Bermondsey Street) is the iconic (:spatial :primary White Cube), one of the most famous contemporary (:spatial :primary art galleries) in (:spatial London).
+On the other side of the actual (:spatial London Bridge) many (:spatial food shops) and (:spatial restaurants) surround it like (:spatial :primary Brindisa), (:spatial :primary Roast).
+From (:spatial Belgravia), make your way west to the (:spatial :primary Harwood Arms) in (:spatial Fulham). This local (:spatial pub) is deserving of its Michelin star.
+The (:spatial :primary shops) in (:spatial Notting Hill) are worth a visit, too. (:spatial :primary Streets) like (:spatial :primary Blenheim Crescent) and (:spatial :primary Kensington Park Road) are full of independent (:spatial boutiques), (:spatial bookstores), and (:spatial bakeries).
+(:spatial :primary Harrods) and (:spatial :primary Harvey Nichols) are right near each other and are two of (:spatial London's) most iconic (:spatial :primary department stores).
+(:spatial :primary Cecil Court) is one of the best (:spatial places) for books in (:spatial London). This little (:spatial pedestrian street) is bursting with (:spatial bookshops) and (:spatial stores) selling all kinds of antique maps and memorabilia.
+There are many (:spatial :primary cafes) in (:spatial Covent Garden). From (:spatial :primary Jacob the Angel) to (:spatial :primary Monmouth Coffee), there are many (:spatial places) to have a good latte.
+The (:spatial :primary section) between (:spatial Goodge) and (:spatial Percy Street) has more good (:spatial restaurants) per square foot than almost any other part of (:spatial London).
+Running parallel to (:spatial Charlotte Street), (:spatial :primary Whitfield) is another neighborhood gem.
+From the Aussie breakfasts at (:spatial Lantana) to the winning cocktails at (:spatial Shochu Lounge), the (:spatial :primary area) has  many (:spatial cafes) and (:spatial bars) providing something delicious for every hour of the day.
+When evening comes, the secret (:spatial :primary bar) at (:spatial :primary Crazy Bear) is always a treat. However, if I am in the mood for a (:spatial :primary pub), the (:spatial :primary Fitzroy Tavern's) historic atmosphere is my favorite.
+The most iconic (:spatial :primary bridge) in (:spatial Prague) and arguably one of the most iconic attractions in (:spatial Europe) is the (:spatial Charles Bridge) which is 700 years old and has carried many travellers from the center of (:spatial Prague) toward the castle side of the (:spatial Vltava River).
+The (:spatial :primary Golden Roof) is a landmark located in the (:spatial Old Town (Altstadt)) of (:spatial Innsbruck), (:spatial Austria). It is considered the (:spatial city's) most famous attraction.
+(:spatial :primary Schloss Ambras) is a renaissance (:spatial castle) and (:spatial palace) located in the (:spatial hills) above (:spatial Innsbruck).
+(:spatial :primary St. Anne's Column) stands in the (:spatial city centre) of (:spatial Innsbruck) and is a famous attraction on a (:spatial street) called (:spatial Maria-Theresien-Straße).
