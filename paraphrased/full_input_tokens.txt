@@ -1,0 +1,212 @@
+tea, cupcakes
+cafe
+crab linguine, honey, yogurt, place
+restaurant
+place, bread
+bakery
+bites, Location
+restaurant
+Lunch place, Menu, Vegan
+restaurant
+places, street, drink
+bar
+beer, houses
+brewery
+place, Michelin star, food
+pub
+home, place, coffee
+cafe
+caffeine, place, coffee, cocktail
+cafe
+doner, place
+fast-food
+Afternoon tea, sandwiches, scones, pastries
+restaurant
+places, tequila, taquerias, tacos
+restaurant
+breakfast, cocktails
+cafe
+eateries, area
+restaurant
+bread, pasta, food
+cafe
+soups, hot-dogs, vegan, place
+fast-food
+food, spot, interior
+cafe
+coffee
+cafe
+place, bread
+cafe
+breakfast, Lunch, place
+restaurant
+pizza, place, slices
+fast-food
+place, lunches, homemade-lemonade, ice-coffee, desserts
+restaurant
+breakfast, meal, Avacado sandwich, egg
+cafe
+food, wine, beer, cocktails
+restaurant
+pizza, place, lunch, dinner
+restaurant
+drink
+pub
+cuisine, food, bangers, shehperd’s pie, cuisine
+restaurant
+spot, fish, chips, location
+fast-food
+Meat lovers, Sunday roast, lamb, beef, pork
+restaurant
+Beigel, Salt, beef, Mustard
+fast-food
+currywurst
+fast-food
+Schnitzel, place, food
+restaurant
+meatballs, neighborhood
+marketplace
+Vegan, vegetarian, porridge, dishes
+restaurant
+brunch, Eggs Benny sandwich, eggs, salmon
+restaurant
+Roast bone marrow, parsley salad, Mandarin Kitchen, lobster, egg noodles
+restaurant
+place, dim-sum, duck, dishes, lunch
+restaurant
+tourist destination, hash browns
+cafe
+mustard, salt beef bagel
+fast-food
+tempura, katsu, noodles, place
+bar
+place, vintage car showroom, food, service, shirt
+restaurant
+spot, neighborhood places, brunches, cakes, cookies
+cafe
+places, favorite, beer
+pub
+beers, ales, food menu, dishes
+pub
+afternoon tea, service, sandwiches, scones, cakes, pastries
+hotel
+dishes, afternoon tea, biscuit, milk chocolate fossil, chocolate
+hotel
+Afternoon tea, menu, eggs, sandwiches, Earl grey, Jam
+restaurant
+Afternoon Tea, menu, Seasonali Tea
+hotel
+beers, ales, burgers, pizza
+pub
+Garden, Afternoon tea
+hotel
+place, lunch time, seat, chicken rice bowl
+restaurant
+coffee, place, day
+cafe
+tea, cake
+restaurant
+Afternoon tea, thing, mood
+hotel
+place, spot, drink, lunch
+pub
+exhibitions, place
+arts_center
+place, ales, ciders, atmosphere
+pub
+bread, cronuts
+bakery
+queue, cupcake
+cafe
+sofas, Lobby, lounge, Design, elements, terraces
+hotel
+Concrete walls, Dinning room, yard, graveyard
+restaurant
+place, roses, waterfalls, ponds
+park
+species, flamingos, pelicans, penguins, owls
+zoo
+Jardin Exotique, collection, succulents, castle, ruins, panoramas, Mediterranean
+park
+home, collection, artifacts, Furniture, art, Mosaics
+museum
+delight, cobblestones, greenery, houses
+road
+part, Dining rooms
+restaurant
+Hermitage, state apartments, impressionist paintings, sculpture rooms
+museum
+Jewellery Quarter, Bullring, shopping area
+Retail Area
+room, bed, chair, desk, Closet area
+hotel
+bridges, banks, buildings
+river
+dinner, feast, evening, sangria, olives, anchovies, cheese, prawns, melon, ham, potatoes
+restaurant
+shopping arcade, chocolate shops
+mall
+lunch, venue, food, calamari, pasta
+restaurant
+designers, craftspeople, Arts and Craft Movement
+museum
+glass chandelier, Entry hall, Fashion collection, Centuries, dresses, east asian, ceramics, sculptures
+museum
+South Bank, places, art
+museum
+art, portraits, sculptures, display
+gallery
+Churchill War Rooms, places, capital, bunker, streets, space, collection
+museum
+home, painter, Middle Eastern interiors, Syrian tiles, Egyptian screens
+museum
+floral-corners, corridors
+park
+Ottoman, opulence, courtyards, Rooms, meeting rooms, relics, imperial divan, libraries, harems
+attraction
+streets, cafes, restaurants, bars
+attraction
+place, food, time
+restaurant
+boats, water beneath, sides, view
+river
+Gypsy band, Evening, Dishes, goulash, plates, Ribs, pork shoulders, dinner
+restaurant
+train, morning
+railway
+place, rooms, staff picks, book collections, timeline, wall
+bookshop
+dinner, cave, stomachs, fish
+restaurant
+meals, place, terrace, bougainvillea
+restaurant
+stop, middle, island, buildings, square, signature cats
+village
+walls, doors, bucket loads, bougainvillea, Pyrgos, Greek island
+city
+tea break, Off White, place, furniture, range, teas, pots, atmosphere
+cafe
+alleys, window-shopping, florists, note, cafes, restaurants
+Residential Road
+caryatids, originals, museum
+attraction
+place, pizzas, Truffle, ravioli
+pub
+home, ceilings, Catholic, place
+church
+exhibition, Caravaggio, works
+museum
+spot, Spanish steps, touristy, magenta azaleas, bloom, sight
+attraction
+collection, art, views
+gallery
+hall, stalls, everything, confections, cod, Spanish ham
+food-market
+collection, Renaissance art, Baroque, Impressionist, Expressionist, galleries
+museum
+collection, sketches, Oskar Schlemmer, Triadic Ballet, chairs
+museum
+Brunch, pancakes
+cafe
+dinner, place, Rijsttafel dinner, trip
+restaurant
